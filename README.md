@@ -1,11 +1,8 @@
-## About Me
+# 🏄‍♂️ McJellyFish
 
-🎓 Graduate student pursuing a Master’s in Data Analytics Engineering  
-💼 2+ years of professional experience in data analytics and technology roles  
-🔬 Research Assistant working on applied AI and data-driven systems  
-🤝 Open to collaborating on machine learning and data science projects  
-🌱 Exploring advanced analytics, cloud technologies, and scalable systems  
-⚡ Passionate about turning data into meaningful real-world impact  
+**`Research Assistant | Data Analyst | Data Engineer`**
+
+I'm a software engineer, Linux distro hopper, Java apologist, and content creator at [ForrestKnight][youtube] (680k+ subscribers).
 
 
 ---
