@@ -2,7 +2,7 @@
 
 **`Research Assistant | Data Analyst | Data Engineer`**
 
-I'm a software engineer, Linux distro hopper, Java apologist, and content creator at [ForrestKnight][youtube] (680k+ subscribers).
+I’m a data analytics engineer, AI researcher, and machine learning enthusiast building scalable data systems and applied ML solutions.
 
 
 ---
