@@ -2,7 +2,7 @@
 
 **`Research Assistant | Data Analyst | Data Engineer`**
 
-I’m a data analytics engineer, AI researcher, and machine learning enthusiast building scalable data systems and applied ML solutions.
+I’m a data analytics engineer, AI researcher and machine learning enthusiast building data systems and applied ML solutions.
 
 
 ---
