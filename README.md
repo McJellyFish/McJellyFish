@@ -9,7 +9,7 @@ I’m a data analytics engineer, AI researcher and machine learning enthusiast b
 
 ## Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://www.tanmaysa.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?logo=google-chrome&logoColor=white)](https://www.tanmaysa.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanmaysa)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32278084/tanmay-sahasrabudhe)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanu.010803@gmail.com)
